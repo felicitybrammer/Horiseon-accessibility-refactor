@@ -6,4 +6,5 @@ A refactored codebase for marketing agency Horiseon's website. The goal of this 
 
 Link here
 
-screenshot
+## Screenshot
+![Screenshot](assets/images/Horiseon_Social.png)
